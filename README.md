@@ -219,7 +219,7 @@ B树的结构要求：
 [**查询截取分析**](查询截取分析.md)
 
 ### Mysql锁
-[Mysql 锁](mysql锁.md)
+[**Mysql 锁**](mysql锁.md)
 
 
 
